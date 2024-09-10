@@ -1,0 +1,17 @@
+
+
+4 x 36 cell (4 sessions of 10 repeats x 36 stimulus conditions)
+
+within each cell, we find a matrix:
+
+10 repeats x # neurons
+
+where each value is the mean dF/F for each trial (presentation).
+
+
+
+Traces files:
+4 x 36 cell (4 sessions of 10 repeats x 36 stimulus conditions)
+
+within each cell, we find a tensor:
+# frames x # neurons x # repeats (including 1 sec before and after stimulus)
