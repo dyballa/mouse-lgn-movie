@@ -1,0 +1,193 @@
+Frame Time Period TrialNo Stimulus
+1 0 PRESTIM
+181 7879 TRIAL 1 stim=FLOW nDots=3 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+271 21322 PRESTIM
+451 27229 TRIAL 2 stim=GRAT dir=90 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+541 30145 PRESTIM
+721 36322 TRIAL 3 stim=GRAT dir=45 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+811 40209 PRESTIM
+991 45711 TRIAL 4 stim=FLOW nDots=1 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+1081 52327 PRESTIM
+1261 58077 TRIAL 5 stim=FLOW nDots=1 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+1351 69685 PRESTIM
+1531 74947 TRIAL 6 stim=FLOW nDots=3 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+1621 84163 PRESTIM
+1801 90742 TRIAL 7 stim=FLOW nDots=1 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+1891 97991 PRESTIM
+2071 103570 TRIAL 8 stim=FLOW nDots=3 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+2161 111169 PRESTIM
+2341 115640 TRIAL 9 stim=GRAT dir=270 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+2431 118292 PRESTIM
+2611 122848 TRIAL 10 stim=GRAT dir=0 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+2701 126507 PRESTIM
+2881 135635 TRIAL 11 stim=FLOW nDots=3 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+2971 145780 PRESTIM
+3151 153625 TRIAL 12 stim=FLOW nDots=1 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+3241 160910 PRESTIM
+3421 165794 TRIAL 13 stim=FLOW nDots=1 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+3511 173170 PRESTIM
+3691 178921 TRIAL 14 stim=FLOW nDots=1 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+3781 186284 PRESTIM
+3961 192306 TRIAL 15 stim=FLOW nDots=3 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+4051 199943 PRESTIM
+4231 205360 TRIAL 16 stim=GRAT dir=225 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+4321 208671 PRESTIM
+4501 213122 TRIAL 17 stim=GRAT dir=90 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+4591 215414 PRESTIM
+4771 220397 TRIAL 18 stim=FLOW nDots=3 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+4861 228090 PRESTIM
+5041 233495 TRIAL 19 stim=GRAT dir=0 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+5131 236160 PRESTIM
+5311 241250 TRIAL 20 stim=FLOW nDots=1 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+5401 247761 PRESTIM
+5581 253513 TRIAL 21 stim=FLOW nDots=3 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+5671 262209 PRESTIM
+5851 268165 TRIAL 22 stim=FLOW nDots=1 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+5941 275428 PRESTIM
+6121 281008 TRIAL 23 stim=FLOW nDots=3 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+6211 288736 PRESTIM
+6391 293658 TRIAL 24 stim=GRAT dir=180 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+6481 296345 PRESTIM
+6661 303242 TRIAL 25 stim=FLOW nDots=3 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+6751 312657 PRESTIM
+6931 317475 TRIAL 26 stim=GRAT dir=135 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+7021 320566 PRESTIM
+7201 326153 TRIAL 27 stim=FLOW nDots=1 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+7291 336873 PRESTIM
+7471 348543 TRIAL 28 stim=FLOW nDots=3 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+7561 363146 PRESTIM
+7741 373414 TRIAL 29 stim=GRAT dir=225 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+7831 378871 PRESTIM
+8011 384376 TRIAL 30 stim=FLOW nDots=1 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+8101 395066 PRESTIM
+8281 400888 TRIAL 31 stim=GRAT dir=135 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+8371 404455 PRESTIM
+8551 409650 TRIAL 32 stim=FLOW nDots=3 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+8641 417373 PRESTIM
+8821 422223 TRIAL 33 stim=FLOW nDots=1 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+8911 428713 PRESTIM
+9091 433241 TRIAL 34 stim=GRAT dir=270 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+9181 435588 PRESTIM
+9361 441098 TRIAL 35 stim=FLOW nDots=1 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+9451 447695 PRESTIM
+9631 453063 TRIAL 36 stim=FLOW nDots=3 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+9721 460493 PRESTIM
+9901 465386 TRIAL 37 stim=FLOW nDots=1 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+9991 471923 PRESTIM
+10171 476630 TRIAL 38 stim=GRAT dir=180 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+10261 478966 PRESTIM
+10441 484192 TRIAL 39 stim=FLOW nDots=3 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+10531 491790 PRESTIM
+10711 497000 TRIAL 40 stim=FLOW nDots=3 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+10801 505534 PRESTIM
+10981 510330 TRIAL 41 stim=FLOW nDots=1 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+11071 516767 PRESTIM
+11251 521216 TRIAL 42 stim=GRAT dir=45 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+11341 524584 PRESTIM
+11521 529296 TRIAL 43 stim=FLOW nDots=1 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+11611 535969 PRESTIM
+11791 540637 TRIAL 44 stim=FLOW nDots=1 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+11881 547226 PRESTIM
+12061 551997 TRIAL 45 stim=GRAT dir=315 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+12151 555737 PRESTIM
+12331 560262 TRIAL 46 stim=GRAT dir=315 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+12421 563338 PRESTIM
+12601 568489 TRIAL 47 stim=FLOW nDots=3 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+12691 576844 PRESTIM
+12871 583196 TRIAL 48 stim=FLOW nDots=3 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+12961 592043 PRESTIM
+13141 597222 TRIAL 49 stim=GRAT dir=90 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+13231 599680 PRESTIM
+13411 605171 TRIAL 50 stim=FLOW nDots=1 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+13501 611660 PRESTIM
+13681 616755 TRIAL 51 stim=FLOW nDots=3 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+13771 624106 PRESTIM
+13951 629262 TRIAL 52 stim=FLOW nDots=3 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+14041 636626 PRESTIM
+14221 641336 TRIAL 53 stim=FLOW nDots=1 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+14311 647773 PRESTIM
+14491 652331 TRIAL 54 stim=GRAT dir=90 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+14581 654651 PRESTIM
+14761 659815 TRIAL 55 stim=FLOW nDots=3 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+14851 666952 PRESTIM
+15031 671677 TRIAL 56 stim=FLOW nDots=1 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+15121 677904 PRESTIM
+15301 682611 TRIAL 57 stim=GRAT dir=315 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+15391 685756 PRESTIM
+15571 690278 TRIAL 58 stim=GRAT dir=0 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+15661 692572 PRESTIM
+15841 697453 TRIAL 59 stim=FLOW nDots=1 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+15931 703820 PRESTIM
+16111 708981 TRIAL 60 stim=FLOW nDots=3 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+16201 716490 PRESTIM
+16381 721601 TRIAL 61 stim=FLOW nDots=3 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+16471 728951 PRESTIM
+16651 733544 TRIAL 62 stim=GRAT dir=180 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+16741 736000 PRESTIM
+16921 740835 TRIAL 63 stim=GRAT dir=45 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+17011 744286 PRESTIM
+17191 748988 TRIAL 64 stim=FLOW nDots=1 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+17281 755438 PRESTIM
+17461 760589 TRIAL 65 stim=FLOW nDots=3 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+17551 767729 PRESTIM
+17731 772632 TRIAL 66 stim=FLOW nDots=1 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+17821 779101 PRESTIM
+18001 783934 TRIAL 67 stim=GRAT dir=315 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+18091 787525 PRESTIM
+18271 792199 TRIAL 68 stim=GRAT dir=45 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+18361 795638 PRESTIM
+18541 800350 TRIAL 69 stim=FLOW nDots=1 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+18631 806702 PRESTIM
+18811 811773 TRIAL 70 stim=FLOW nDots=3 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+18901 819325 PRESTIM
+19081 824099 TRIAL 71 stim=FLOW nDots=1 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+19171 833146 PRESTIM
+19351 839402 TRIAL 72 stim=FLOW nDots=3 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+19441 846693 PRESTIM
+19621 851392 TRIAL 73 stim=FLOW nDots=1 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+19711 857684 PRESTIM
+19891 862432 TRIAL 74 stim=FLOW nDots=1 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+19981 868722 PRESTIM
+20161 873201 TRIAL 75 stim=GRAT dir=225 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+20251 876584 PRESTIM
+20431 881100 TRIAL 76 stim=GRAT dir=180 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+20521 883392 PRESTIM
+20701 888518 TRIAL 77 stim=FLOW nDots=3 dir=45 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+20791 896070 PRESTIM
+20971 901232 TRIAL 78 stim=FLOW nDots=3 dir=315 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+21061 908852 PRESTIM
+21241 914128 TRIAL 79 stim=GRAT dir=135 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+21331 918161 PRESTIM
+21511 924481 TRIAL 80 stim=FLOW nDots=3 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+21601 933286 PRESTIM
+21781 939177 TRIAL 81 stim=FLOW nDots=1 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+21871 947422 PRESTIM
+22051 953647 TRIAL 82 stim=FLOW nDots=3 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+22141 962346 PRESTIM
+22321 968202 TRIAL 83 stim=FLOW nDots=1 dir=180 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+22411 976589 PRESTIM
+22591 982069 TRIAL 84 stim=GRAT dir=270 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+22681 985171 PRESTIM
+22861 990824 TRIAL 85 stim=FLOW nDots=1 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+22951 998825 PRESTIM
+23131 1004961 TRIAL 86 stim=FLOW nDots=3 dir=225 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+23221 1014072 PRESTIM
+23401 1020506 TRIAL 87 stim=FLOW nDots=3 dir=270 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+23491 1028807 PRESTIM
+23671 1033870 TRIAL 88 stim=FLOW nDots=1 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+23761 1040933 PRESTIM
+23941 1046004 TRIAL 89 stim=GRAT dir=135 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+24031 1049666 PRESTIM
+24211 1054266 TRIAL 90 stim=GRAT dir=270 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+24301 1056879 PRESTIM
+24481 1062034 TRIAL 91 stim=GRAT dir=0 tfreq=4.0 width=12.50 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+24571 1064575 PRESTIM
+24751 1069871 TRIAL 92 stim=FLOW nDots=3 dir=135 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+24841 1077393 PRESTIM
+25021 1082379 TRIAL 93 stim=FLOW nDots=1 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=8 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+25111 1089196 PRESTIM
+25291 1094276 TRIAL 94 stim=GRAT dir=225 tfreq=4.0 width=2.00 fgLvl=188 bgLvl=68 interLvl=128 phase=0.00 maskD=0 maskX=0 maskY=0
+25381 1098215 PRESTIM
+25561 1103175 TRIAL 95 stim=FLOW nDots=1 dir=0 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
+25651 1110065 PRESTIM
+25831 1115349 TRIAL 96 stim=FLOW nDots=3 dir=90 tfreq=4.0 diam=2.00 spac=2.00 dotLvl=248 bgLvl=128 interLvl=128 maskD=0 maskX=0 maskY=0
